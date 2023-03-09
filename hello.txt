@@ -1,2 +1,3 @@
 This is git class.
 This is new feature in new branch.
+Bug is fixed.
